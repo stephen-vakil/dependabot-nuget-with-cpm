@@ -1,0 +1,6 @@
+<Project>
+   <PropertyGroup>
+        <!-- Switches on global package management using Directory.Packages.props -->
+        <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+   </PropertyGroup>
+</Project>

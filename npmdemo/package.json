@@ -2,6 +2,6 @@
   "name": "dependabot_demo_project",
   "version": "1.0.0",
   "dependencies": {
-    "d3": "^5.5.0"
+    "d3": "^7.9.0"
   }
 }

@@ -2,5 +2,6 @@
    <PropertyGroup>
         <!-- Switches on global package management using Directory.Packages.props -->
         <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+       <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
    </PropertyGroup>
 </Project>
